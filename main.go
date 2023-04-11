@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	Token      = "MTA5NTE5ODk5NjI3ODAzODYxOA.G9A8i_.OrzMmm021QkVnVDFOUyKIANVp1yixR0Xgk7p5o"
+	Token      = "#"
 	ChannelID  = "1095198434903994368"
 	RSSFeedURL = "https://rpilocator.com/feed/"
 )
